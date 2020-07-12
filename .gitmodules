@@ -1,0 +1,3 @@
+[submodule "ej-ui"]
+	path = externals/ej-ui
+	url = git@gitlab.com:ejresearch/infra_front/ej-ui.git
